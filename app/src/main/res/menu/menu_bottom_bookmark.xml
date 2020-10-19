@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/toggleWebPage"
+        android:title="@string/toggle_web_page"
+        android:icon="@drawable/ic_toggle_web_page"/>
+    <item
+        android:id="@+id/addBookmark"
+        android:title="@string/add_bookmark"
+        android:icon="@drawable/ic_star_bookmark"/>
+    <item
+        android:id="@+id/readerModeWebPage"
+        android:title="@string/reader_mode_web_page"
+        android:icon="@drawable/ic_reader"/>
+</menu>

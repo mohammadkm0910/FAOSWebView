@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FAOS WebView</string>
+    <string name="bookmarks">نشانک ها</string>
+    <string name="toggle_web_page">حالت های صفحه</string>
+    <string name="add_bookmark">اضافه کردن نشانک</string>
+    <string name="reader_mode_web_page">حالت مطالعه</string>
+    <string name="new_tab">زبانه جدید</string>
+    <string name="forward">رفتن به جلو</string>
+    <string name="main_page">صفحه اصلی</string>
+    <string name="back">رفتن به عقب</string>
+    <string name="tabs">زبانه ها</string>
+    <string name="default_tab">1</string>
+    <string name="hint_search">جست و جو…</string>
+    <string name="remove_tab">حذف زبانه</string>
+    <string name="toggle_desktop_user_agent">حالت دسکتاپ (User agent)</string>
+</resources>
